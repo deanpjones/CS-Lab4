@@ -1,0 +1,22 @@
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\bin\Debug\Lab4.1.0.exe.config
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4.1.0.csprojResolveAssemblyReference.cache
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4._1._0.frmMain.resources
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4._1._0.Properties.Resources.resources
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4.1.0.csproj.GenerateResource.Cache
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\bin\Debug\NORTHWND.MDF
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\bin\Debug\NORTHWND_log.ldf
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\bin\Debug\Lab4.1.0.exe
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\bin\Debug\Lab4.1.0.pdb
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4.1.0.exe
+c:\users\61812\OneDrive\000-SAIT (cloud)\001-C-SHARP\00-Practise\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4.1.0.pdb
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\bin\Debug\NORTHWND.MDF
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\bin\Debug\NORTHWND_log.ldf
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\bin\Debug\Lab4.1.0.exe.config
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\bin\Debug\Lab4.1.0.exe
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\bin\Debug\Lab4.1.0.pdb
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4.1.0.csprojResolveAssemblyReference.cache
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4._1._0.frmMain.resources
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4._1._0.Properties.Resources.resources
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4.1.0.csproj.GenerateResource.Cache
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4.1.0.exe
+C:\Users\Pythagoras\Documents\003\CPRG200_Lab4 CSharp OrderDetailsDB(Dean Jones)(Jan.10, 2017)\Lab4.1.0\Lab4.1.0\obj\Debug\Lab4.1.0.pdb
